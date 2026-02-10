@@ -1,0 +1,17 @@
+[project]
+name = "compliancemas"
+version = "0.1.0"
+description = "Compliance-aware memory system for multi-agent LLMs"
+requires-python = ">=3.10"
+
+dependencies = [
+  "pydantic>=2.6",
+  "langgraph",
+  "typer",
+  "rich",
+  "pytest",
+  "ruff"
+]
+
+[tool.ruff]
+line-length = 100
