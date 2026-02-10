@@ -1,4 +1,4 @@
-![CI](https://github.com/siddegowdagowtham-dot/compliancemas/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/siddegowdagowtham-dot/compliancemas/actions/workflows/ci.yml/badge.svg)](https://github.com/siddegowdagowtham-dot/compliancemas/actions/workflows/ci.yml)
 
 # ComplianceMAS
 
