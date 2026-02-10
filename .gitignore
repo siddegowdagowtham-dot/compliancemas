@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# Tooling
+.ruff_cache/
+.pytest_cache/
+
+# Project
+runs/
+*.db
